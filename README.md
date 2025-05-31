@@ -1,3 +1,4 @@
+![Screenshot (38)](https://github.com/user-attachments/assets/d733db48-bab9-4baa-8a8b-00d1fd273b80)
 🚀 Insurance Premium Predictor (FastAPI & Streamlit)
 A full-stack machine learning application that predicts the insurance premium category for users based on their age, BMI, income, occupation, city tier, and smoking habits.
 
